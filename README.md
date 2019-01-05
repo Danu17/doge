@@ -1,2 +1,2 @@
-# doge
+# scrip doge
 No copas
